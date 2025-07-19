@@ -1,2 +1,3 @@
 # Competitor-Sales-Analysis
 Power BI project
+This Power BI case study presents a real-world business scenario where ETL (Extract, Transform, Load) and data visualization concepts were applied. Using Power BI and the Power Query Editor, a comprehensive report was developed, beginning with data integration from multiple sources, followed by data transformation, modeling, and visualization. The analysis focused on both sales and market share, examining not only the company's internal performance—how well its products are selling—but also its external performance, by comparing results against competing manufacturers.
